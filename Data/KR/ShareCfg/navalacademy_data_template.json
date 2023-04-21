@@ -1,0 +1,58 @@
+{
+  "1": {
+    "name": "대강당",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 1,
+    "schedule": {}
+  },
+  "2": {
+    "name": "체육관",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 2,
+    "schedule": {}
+  },
+  "3": {
+    "name": "해군매점",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 3,
+    "schedule": {}
+  },
+  "4": {
+    "name": "해군식당",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 4,
+    "schedule": {}
+  },
+  "5": {
+    "name": "보급상점",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 5,
+    "schedule": {}
+  },
+  "6": {
+    "name": "전술학원",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 6,
+    "schedule": {}
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

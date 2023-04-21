@@ -1,0 +1,58 @@
+{
+  "1": {
+    "name": "大講堂",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 1,
+    "schedule": {}
+  },
+  "2": {
+    "name": "體育館",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 2,
+    "schedule": {}
+  },
+  "3": {
+    "name": "合作社",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 3,
+    "schedule": {}
+  },
+  "4": {
+    "name": "海軍食堂",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 4,
+    "schedule": {}
+  },
+  "5": {
+    "name": "補給商店",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 5,
+    "schedule": {}
+  },
+  "6": {
+    "name": "戰術學院",
+    "slot": 0,
+    "painting": 0,
+    "information": "",
+    "id": 6,
+    "schedule": {}
+  },
+  "all": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

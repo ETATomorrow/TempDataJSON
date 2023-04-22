@@ -1,5 +1,5 @@
 {
-  "0": {
+  "1": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "舰炮",
@@ -7,7 +7,7 @@
     "compare_group": 1,
     "type_name2": "舰炮(驱逐)"
   },
-  "1": {
+  "2": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "舰炮",
@@ -15,7 +15,7 @@
     "compare_group": 1,
     "type_name2": "舰炮(轻巡)"
   },
-  "2": {
+  "3": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "舰炮",
@@ -23,7 +23,7 @@
     "compare_group": 1,
     "type_name2": "舰炮(重巡)"
   },
-  "3": {
+  "4": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "舰炮",
@@ -31,7 +31,7 @@
     "compare_group": 1,
     "type_name2": "舰炮(战列)"
   },
-  "4": {
+  "5": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "鱼雷",
@@ -39,7 +39,7 @@
     "compare_group": 2,
     "type_name2": "鱼雷"
   },
-  "5": {
+  "6": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 0,
     "type_name": "防空炮",
@@ -47,7 +47,7 @@
     "compare_group": 3,
     "type_name2": "防空炮"
   },
-  "6": {
+  "7": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "战斗机",
@@ -55,7 +55,7 @@
     "compare_group": 4,
     "type_name2": "战斗机"
   },
-  "7": {
+  "8": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "鱼雷机",
@@ -63,7 +63,7 @@
     "compare_group": 4,
     "type_name2": "鱼雷机"
   },
-  "8": {
+  "9": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "轰炸机",
@@ -71,7 +71,7 @@
     "compare_group": 4,
     "type_name2": "轰炸机"
   },
-  "9": {
+  "10": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "设备",
@@ -79,7 +79,7 @@
     "compare_group": 5,
     "type_name2": "设备"
   },
-  "10": {
+  "11": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "舰炮",
@@ -87,7 +87,7 @@
     "compare_group": 1,
     "type_name2": "舰炮(大口径重巡)"
   },
-  "11": {
+  "12": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "水上机",
@@ -95,7 +95,7 @@
     "compare_group": 5,
     "type_name2": "水上机"
   },
-  "12": {
+  "13": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "鱼雷",
@@ -103,7 +103,7 @@
     "compare_group": 6,
     "type_name2": "鱼雷(潜艇)"
   },
-  "13": {
+  "14": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "设备",
@@ -111,7 +111,7 @@
     "compare_group": 5,
     "type_name2": "设备"
   },
-  "14": {
+  "15": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "反潜机",
@@ -170,6 +170,7 @@
     17,
     18,
     20,
-    21
+    21,
+    "all"
   ]
 }

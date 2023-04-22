@@ -2637,6 +2637,8 @@
     5001,
     5002,
     5003,
-    5004
+    5004,
+    "get_id_list_by_commodity_type",
+    "all"
   ]
 }

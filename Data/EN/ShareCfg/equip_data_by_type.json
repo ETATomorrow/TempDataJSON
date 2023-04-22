@@ -1,5 +1,5 @@
 {
-  "0": {
+  "1": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "Artillery",
@@ -7,7 +7,7 @@
     "compare_group": 1,
     "type_name2": "Artillery (Destroyer)"
   },
-  "1": {
+  "2": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "Artillery",
@@ -15,7 +15,7 @@
     "compare_group": 1,
     "type_name2": "Artillery (Light Cruiser)"
   },
-  "2": {
+  "3": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "Artillery",
@@ -23,7 +23,7 @@
     "compare_group": 1,
     "type_name2": "Artillery (Heavy Cruiser)"
   },
-  "3": {
+  "4": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "Artillery",
@@ -31,7 +31,7 @@
     "compare_group": 1,
     "type_name2": "Artillery (Battleship)"
   },
-  "4": {
+  "5": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "Torpedo",
@@ -39,7 +39,7 @@
     "compare_group": 2,
     "type_name2": "Torpedo"
   },
-  "5": {
+  "6": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 0,
     "type_name": "Anti-Air Gun",
@@ -47,7 +47,7 @@
     "compare_group": 3,
     "type_name2": "Anti-Air Gun"
   },
-  "6": {
+  "7": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "Fighter",
@@ -55,7 +55,7 @@
     "compare_group": 4,
     "type_name2": "Fighter"
   },
-  "7": {
+  "8": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "Torpedo Bomber",
@@ -63,7 +63,7 @@
     "compare_group": 4,
     "type_name2": "Torpedo Bomber"
   },
-  "8": {
+  "9": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "Dive Bomber",
@@ -71,7 +71,7 @@
     "compare_group": 4,
     "type_name2": "Dive Bomber"
   },
-  "9": {
+  "10": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "Auxiliary",
@@ -79,7 +79,7 @@
     "compare_group": 5,
     "type_name2": "Auxiliary"
   },
-  "10": {
+  "11": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "Artillery",
@@ -87,7 +87,7 @@
     "compare_group": 1,
     "type_name2": "Artillery (Pocket Battleship)"
   },
-  "11": {
+  "12": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "Reconnaissance",
@@ -95,7 +95,7 @@
     "compare_group": 5,
     "type_name2": "Reconnaissance"
   },
-  "12": {
+  "13": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "Torpedo",
@@ -103,7 +103,7 @@
     "compare_group": 6,
     "type_name2": "Torpedo (Submarine)"
   },
-  "13": {
+  "14": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "Auxiliary",
@@ -111,7 +111,7 @@
     "compare_group": 5,
     "type_name2": "Auxiliary"
   },
-  "14": {
+  "15": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "Anti-submarine aircraft",
@@ -170,6 +170,7 @@
     17,
     18,
     20,
-    21
+    21,
+    "all"
   ]
 }

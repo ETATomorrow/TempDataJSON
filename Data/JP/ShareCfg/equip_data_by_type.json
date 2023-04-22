@@ -1,5 +1,5 @@
 {
-  "0": {
+  "1": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "艦砲",
@@ -7,7 +7,7 @@
     "compare_group": 1,
     "type_name2": "艦砲(駆逐)"
   },
-  "1": {
+  "2": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "艦砲",
@@ -15,7 +15,7 @@
     "compare_group": 1,
     "type_name2": "艦砲(軽巡)"
   },
-  "2": {
+  "3": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "艦砲",
@@ -23,7 +23,7 @@
     "compare_group": 1,
     "type_name2": "艦砲(重巡)"
   },
-  "3": {
+  "4": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "艦砲",
@@ -31,7 +31,7 @@
     "compare_group": 1,
     "type_name2": "艦砲(戦列)"
   },
-  "4": {
+  "5": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "魚雷",
@@ -39,7 +39,7 @@
     "compare_group": 2,
     "type_name2": "魚雷"
   },
-  "5": {
+  "6": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 0,
     "type_name": "対空",
@@ -47,7 +47,7 @@
     "compare_group": 3,
     "type_name2": "対空"
   },
-  "6": {
+  "7": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "戦闘機",
@@ -55,7 +55,7 @@
     "compare_group": 4,
     "type_name2": "戦闘機"
   },
-  "7": {
+  "8": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "攻撃機",
@@ -63,7 +63,7 @@
     "compare_group": 4,
     "type_name2": "攻撃機"
   },
-  "8": {
+  "9": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "爆撃機",
@@ -71,7 +71,7 @@
     "compare_group": 4,
     "type_name2": "爆撃機"
   },
-  "9": {
+  "10": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "その他",
@@ -79,7 +79,7 @@
     "compare_group": 5,
     "type_name2": "その他"
   },
-  "10": {
+  "11": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "艦砲",
@@ -87,7 +87,7 @@
     "compare_group": 1,
     "type_name2": "艦砲(ポケット戦艦)"
   },
-  "11": {
+  "12": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "水上機",
@@ -95,7 +95,7 @@
     "compare_group": 5,
     "type_name2": "水上機"
   },
-  "12": {
+  "13": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "魚雷",
@@ -103,7 +103,7 @@
     "compare_group": 6,
     "type_name2": "魚雷(潜水艦)"
   },
-  "13": {
+  "14": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "その他",
@@ -111,7 +111,7 @@
     "compare_group": 5,
     "type_name2": "その他"
   },
-  "14": {
+  "15": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "その他",
@@ -170,6 +170,7 @@
     17,
     18,
     20,
-    21
+    21,
+    "all"
   ]
 }

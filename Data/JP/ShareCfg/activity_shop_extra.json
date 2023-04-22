@@ -3408,6 +3408,8 @@
     97,
     98,
     99,
-    100
+    100,
+    "get_id_list_by_commodity_type",
+    "all"
   ]
 }

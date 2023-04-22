@@ -1,5 +1,5 @@
 {
-  "0": {
+  "1": {
     "special_goods_num": 3,
     "lv_up_time": 10,
     "goods_num": 10,
@@ -13,6 +13,7 @@
     ]
   },
   "all": [
-    1
+    1,
+    "all"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "0": {
+  "1": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "함포",
@@ -7,7 +7,7 @@
     "compare_group": 1,
     "type_name2": "함포(구축)"
   },
-  "1": {
+  "2": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "함포",
@@ -15,7 +15,7 @@
     "compare_group": 1,
     "type_name2": "함포(경순)"
   },
-  "2": {
+  "3": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "함포",
@@ -23,7 +23,7 @@
     "compare_group": 1,
     "type_name2": "함포(중순)"
   },
-  "3": {
+  "4": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "함포",
@@ -31,7 +31,7 @@
     "compare_group": 1,
     "type_name2": "함포(전함)"
   },
-  "4": {
+  "5": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "어뢰",
@@ -39,7 +39,7 @@
     "compare_group": 2,
     "type_name2": "어뢰"
   },
-  "5": {
+  "6": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 0,
     "type_name": "대공포",
@@ -47,7 +47,7 @@
     "compare_group": 3,
     "type_name2": "대공포"
   },
-  "6": {
+  "7": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "전투기",
@@ -55,7 +55,7 @@
     "compare_group": 4,
     "type_name2": "전투기"
   },
-  "7": {
+  "8": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "뇌격기",
@@ -63,7 +63,7 @@
     "compare_group": 4,
     "type_name2": "뇌격기"
   },
-  "8": {
+  "9": {
     "distory_resource_gold_ratio": 3,
     "equip_skin": 1,
     "type_name": "폭격기",
@@ -71,7 +71,7 @@
     "compare_group": 4,
     "type_name2": "폭격기"
   },
-  "9": {
+  "10": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "기타",
@@ -79,7 +79,7 @@
     "compare_group": 5,
     "type_name2": "기타"
   },
-  "10": {
+  "11": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "함포",
@@ -87,7 +87,7 @@
     "compare_group": 1,
     "type_name2": "함포 (포켓 전함)"
   },
-  "11": {
+  "12": {
     "distory_resource_gold_ratio": 1,
     "equip_skin": 1,
     "type_name": "수상기",
@@ -95,7 +95,7 @@
     "compare_group": 5,
     "type_name2": "수상기"
   },
-  "12": {
+  "13": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 1,
     "type_name": "어뢰",
@@ -103,7 +103,7 @@
     "compare_group": 6,
     "type_name2": "어뢰(잠수함)"
   },
-  "13": {
+  "14": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "설비",
@@ -111,7 +111,7 @@
     "compare_group": 5,
     "type_name2": "설비"
   },
-  "14": {
+  "15": {
     "distory_resource_gold_ratio": 2,
     "equip_skin": 0,
     "type_name": "초계기 ",
@@ -170,6 +170,7 @@
     17,
     18,
     20,
-    21
+    21,
+    "all"
   ]
 }

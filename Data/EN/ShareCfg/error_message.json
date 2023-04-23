@@ -1,41 +1,41 @@
 {
-  "0": {
+  "1": {
     "desc": "Invalid Input,"
   },
-  "1": {
+  "2": {
     "desc": "Not Enough Configuration,"
   },
-  "2": {
+  "3": {
     "desc": "Time Out,"
   },
-  "3": {
+  "4": {
     "desc": "Not Ready Yet,"
   },
-  "4": {
+  "5": {
     "desc": "Already Reached Max Level,"
   },
-  "5": {
+  "6": {
     "desc": "Already Reached Limit,"
   },
-  "6": {
+  "7": {
     "desc": "Completed,"
   },
-  "7": {
+  "8": {
     "desc": "Undefined Parameter,"
   },
-  "8": {
+  "9": {
     "desc": "Error Parameter,"
   },
-  "9": {
+  "10": {
     "desc": "Not Enough Slots,"
   },
-  "10": {
+  "11": {
     "desc": "Database Error,"
   },
-  "11": {
+  "12": {
     "desc": "System Error,"
   },
-  "12": {
+  "13": {
     "desc": "Disabled Login,"
   },
   "15": {

@@ -74273,6 +74273,106 @@
       ]
     ]
   },
+  "207130": {
+    "ship_group": 20713,
+    "name": "小可畏",
+    "bullet_skin_secondary": "",
+    "hand_id": 5,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 207130,
+    "group_index": 0,
+    "prefab": "kewei_younv",
+    "painting": "kewei_younv",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "光辉级航空母舰—可畏，舷号67",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.296,
+          0.992,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          1.257,
+          0.989,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.46,
+              2.406,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
   "213010": {
     "ship_group": 21301,
     "name": "黑暗界",
@@ -113179,6 +113279,122 @@
       ]
     ]
   },
+  "305115": {
+    "ship_group": 30511,
+    "name": "湛蓝回眸",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "129",
+    "id": 305115,
+    "group_index": 5,
+    "prefab": "sanli_6",
+    "painting": "sanli_6",
+    "shop_id": 70842,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 2,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 4,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "前面突然说要一起去旅行的时候，还以为有什么正事呢——罢了，托你的福，不仅能游山玩水，还能穿上如此美丽的衣服。指挥官，尽情享受吧！哈哈哈！",
+    "voice_actor": 47,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.258,
+          1.387,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.443,
+              2.34,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
   "305118": {
     "ship_group": 30511,
     "name": "无垢舰裳",
@@ -116274,19 +116490,20 @@
     "bg": "152",
     "id": 307014,
     "group_index": 4,
-    "shop_id": 70659,
+    "prefab": "chicheng_5",
     "painting": "chicheng_5",
-    "air_bomb_skin": "",
+    "shop_id": 70659,
     "air_bullet_skin": "",
-    "illustrator": -1,
+    "air_bomb_skin": "",
     "shop_type_id": 3,
+    "illustrator": -1,
     "lip_smoothing": 0,
     "bullet_skin_main": "",
     "skin_type": 4,
     "bg_sp": "",
     "voice_actor_2": -1,
     "air_torpedo_skin": "",
-    "prefab": "chicheng_5",
+    "l2d_ignore_drag": 1,
     "l2d_se": "",
     "aircraft_skin": "",
     "main_UI_FX": "",
@@ -116384,8 +116601,109 @@
         0,
         0
       ]
+    }
+  },
+  "307015": {
+    "ship_group": 30701,
+    "name": "路边的甜蜜",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "129",
+    "id": 307015,
+    "group_index": 5,
+    "prefab": "chicheng_6",
+    "painting": "chicheng_6",
+    "shop_id": 70841,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 2,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 4,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "指挥官，张嘴“啊—”“啊—”♪呵呵，呵呵呵呵…真是孩子气♪收到了漂亮的衣服，还看到和平时不一样的指挥官，我真是太幸运了~♪",
+    "voice_actor": 44,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.215,
+          1.149,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          1.229,
+          1.184,
+          0
+        ]
+      ]
     },
-    "l2d_ignore_drag": "e"
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.3,
+              2.618,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
   },
   "307018": {
     "ship_group": 30701,
@@ -184138,7 +184456,7 @@
     "aircraft_skin": "",
     "main_UI_FX": "",
     "special_effects": "",
-    "desc": "'{namecode:435}级战列舰—'{namecode:436}",
+    "desc": "{namecode:435}级战列舰—'{namecode:436}",
     "voice_actor": -1,
     "spine_offset": "",
     "gyro": 0,
@@ -207124,6 +207442,132 @@
       ]
     ]
   },
+  "10600012": {
+    "ship_group": 1060001,
+    "name": "热气蒸腾的女神",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "142",
+    "id": 10600012,
+    "group_index": 2,
+    "prefab": "maliluosi_3_doa",
+    "painting": "maliluosi_3_doa",
+    "shop_id": 70838,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 22,
+    "illustrator": -1,
+    "lip_smoothing": 0,
+    "bullet_skin_main": "",
+    "skin_type": 4,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "呼~，暖暖的好舒服♪啊，指挥官也一起吧？不过玛莉会害羞…所以别总看着玛莉哦？",
+    "voice_actor": 252,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      1,
+      2,
+      5
+    ],
+    "live2d_offset": [
+      0,
+      35,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.461,
+          1.074,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.003,
+          0.006,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.397,
+          1.067,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.57,
+              2.46,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_voice_calibrate": {
+      "use_event": true
+    }
+  },
   "10600020": {
     "ship_group": 1060002,
     "name": "穗香",
@@ -208461,6 +208905,450 @@
             [
               -0.4,
               2.39,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600080": {
+    "ship_group": 1060008,
+    "name": "露娜",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 10600080,
+    "group_index": 0,
+    "prefab": "luna_doa",
+    "painting": "luna_doa",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "嗯，嗯…这，这里是哪里…我？我叫露娜，是学者。…嗯…指挥官？总之…肚子饿了…有什么，能吃的吗？…要是有烤白薯就好了…",
+    "voice_actor": 312,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600081": {
+    "ship_group": 1060008,
+    "name": "沙滩上的女神",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "106",
+    "id": 10600081,
+    "group_index": 1,
+    "prefab": "luna_2_doa",
+    "painting": "luna_2_doa",
+    "shop_id": 70840,
+    "air_bullet_skin": "",
+    "illustrator": -1,
+    "shop_type_id": 6,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 4,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "嗯…指挥官，玩得有点累了，在这里一起休息下吧？还是说吃点心呢？在这个秘密的树荫下，只有我们两个人...呵呵♪",
+    "voice_actor": 312,
+    "air_bomb_skin": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2,
+      5,
+      6
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "spine_offset": [
+      [
+        150,
+        -878,
+        0
+      ],
+      [
+        1.1
+      ]
+    ]
+  },
+  "10600090": {
+    "ship_group": 1060009,
+    "name": "环",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 10600090,
+    "group_index": 0,
+    "prefab": "huan_doa",
+    "painting": "huan_doa",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "嗯？这是哪里？这样啊…是不是昨天喝多了…啊哈哈…没什么♪可爱的女孩子有这么多，看起来都很开心呢❤我是环。请多关照啦，指挥官❤",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600091": {
+    "ship_group": 1060009,
+    "name": "女神的沐浴时间",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "164",
+    "id": 10600091,
+    "group_index": 1,
+    "prefab": "huan_2_doa",
+    "painting": "huan_2_doa",
+    "shop_id": 70839,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 6,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 4,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "呵呵，等你很久了指挥官♪不用害羞哦❤。接下来我会好好地治愈你的…做好觉悟吧♪",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2,
+      5
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
               0
             ]
           ]

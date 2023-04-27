@@ -73503,6 +73503,106 @@
       ]
     ]
   },
+  "207130": {
+    "ship_group": 20713,
+    "name": "Little Formidable",
+    "bullet_skin_secondary": "",
+    "hand_id": 5,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 207130,
+    "group_index": 0,
+    "prefab": "kewei_younv",
+    "painting": "kewei_younv",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "Illustrious-class aircraft carrier – Formidable.",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.296,
+          0.992,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          1.257,
+          0.989,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.46,
+              2.406,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
   "213010": {
     "ship_group": 21301,
     "name": "Erebus",
@@ -112321,6 +112421,122 @@
       ]
     ]
   },
+  "305115": {
+    "ship_group": 30511,
+    "name": "Beauty in Indigo",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "129",
+    "id": 305115,
+    "group_index": 5,
+    "prefab": "sanli_6",
+    "painting": "sanli_6",
+    "shop_id": 70842,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 2,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "I was worried when you said you wanted to go on a trip with me, but... I do like getting to go sight-seeing and try on new threads. Commander, let's enjoy this to the fullest! Hahaha!",
+    "voice_actor": 47,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.258,
+          1.387,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.443,
+              2.34,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
   "305118": {
     "ship_group": 30511,
     "name": "Untarnished Splendor ",
@@ -115418,19 +115634,20 @@
     "bg": "152",
     "id": 307014,
     "group_index": 4,
-    "shop_id": 70659,
+    "prefab": "chicheng_5",
     "painting": "chicheng_5",
-    "air_bomb_skin": "",
+    "shop_id": 70659,
     "air_bullet_skin": "",
-    "illustrator": -1,
+    "air_bomb_skin": "",
     "shop_type_id": 3,
+    "illustrator": -1,
     "lip_smoothing": 0,
     "bullet_skin_main": "",
     "skin_type": 0,
     "bg_sp": "",
     "voice_actor_2": -1,
     "air_torpedo_skin": "",
-    "prefab": "chicheng_5",
+    "l2d_ignore_drag": 1,
     "l2d_se": "",
     "aircraft_skin": "",
     "main_UI_FX": "",
@@ -115528,8 +115745,109 @@
         0,
         0
       ]
+    }
+  },
+  "307015": {
+    "ship_group": 30701,
+    "name": "Precipice of Sweetness",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "129",
+    "id": 307015,
+    "group_index": 5,
+    "prefab": "chicheng_6",
+    "painting": "chicheng_6",
+    "shop_id": 70841,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 2,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "Commander, open up. Say ahh... Heehee, heheheheh... You're like a little baby♪ Receiving a lovely new outfit and seeing a different side of you... How blessed am I?",
+    "voice_actor": 44,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.215,
+          1.149,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          1.229,
+          1.184,
+          0
+        ]
+      ]
     },
-    "l2d_ignore_drag": "e"
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.3,
+              2.618,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
   },
   "307018": {
     "ship_group": 30701,
@@ -205349,6 +205667,132 @@
       ]
     ]
   },
+  "10600012": {
+    "ship_group": 1060001,
+    "name": "Steamy Venus",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "142",
+    "id": 10600012,
+    "group_index": 2,
+    "prefab": "maliluosi_3_doa",
+    "painting": "maliluosi_3_doa",
+    "shop_id": 70838,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 22,
+    "illustrator": -1,
+    "lip_smoothing": 0,
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "Phew... So warm and comfy~♪ Wanna join me, Commander? Oh... It's a little embarrassing, though, so... Don't look my way too much, okay?",
+    "voice_actor": 252,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      1,
+      2,
+      5
+    ],
+    "live2d_offset": [
+      0,
+      35,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.461,
+          1.074,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.003,
+          0.006,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.397,
+          1.067,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.57,
+              2.46,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_voice_calibrate": {
+      "use_event": true
+    }
+  },
   "10600020": {
     "ship_group": 1060002,
     "name": "Honoka",
@@ -206686,6 +207130,450 @@
             [
               -0.4,
               2.39,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600080": {
+    "ship_group": 1060008,
+    "name": "Luna",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 10600080,
+    "group_index": 0,
+    "prefab": "luna_doa",
+    "painting": "luna_doa",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "H-hmm... Wh-where am I? ...Me? I'm Luna, a scholar. Umm... You go by the Commander? Well, I'm hungry... Do you have anything to eat? I'd prefer roasted sweet potatoes...",
+    "voice_actor": 312,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600081": {
+    "ship_group": 1060008,
+    "name": "Venus of the Beach",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "106",
+    "id": 10600081,
+    "group_index": 1,
+    "prefab": "luna_2_doa",
+    "painting": "luna_2_doa",
+    "shop_id": 70840,
+    "air_bullet_skin": "",
+    "illustrator": -1,
+    "shop_type_id": 6,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "Hmm... Commander, I'm tired from all this frolicking. How about we take a break, or have a snack? You know, nobody knows we're all alone right here... Heehee~♪",
+    "voice_actor": 312,
+    "air_bomb_skin": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2,
+      5,
+      6
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "spine_offset": [
+      [
+        150,
+        -878,
+        0
+      ],
+      [
+        1.1
+      ]
+    ]
+  },
+  "10600090": {
+    "ship_group": 1060009,
+    "name": "Tamaki",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 10600090,
+    "group_index": 0,
+    "prefab": "huan_doa",
+    "painting": "huan_doa",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "Hmm? Where am I? Ohh, I get it now... I drank way too much yesterday... Ahahah. Oh well♪ There's tons of cuties here to keep me entertained❤ My name's Tamaki. It's a pleasure, Commander❤",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600091": {
+    "ship_group": 1060009,
+    "name": "Venus Shower Time",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "164",
+    "id": 10600091,
+    "group_index": 1,
+    "prefab": "huan_2_doa",
+    "painting": "huan_2_doa",
+    "shop_id": 70839,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 6,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "Heehee~ I've been waiting, Commander♪ Come on, there's no need to be shy♥ I'm going to show you a lovely time, darling, so you'd better get ready♪",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2,
+      5
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
               0
             ]
           ]

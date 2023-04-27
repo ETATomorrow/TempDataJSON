@@ -4192,7 +4192,7 @@
     "belong": 1,
     "themeId": 0,
     "is_3d_obj": 0,
-    "count": 1,
+    "count": 2,
     "tag": 6,
     "icon": "doaxunzhangicon",
     "deblocking": 1,
@@ -9444,6 +9444,56 @@
       "char",
       1
     ],
+    "interAction_group": {}
+  },
+  "100048": {
+    "spine_extra": "",
+    "describe": "ただの宝箱とは思わないことだピョ！",
+    "gain_by": "",
+    "type": 14,
+    "dir": 0,
+    "dorm_id": 0,
+    "rarity": 4,
+    "is_get_time_note": 0,
+    "belong": 1,
+    "themeId": 0,
+    "is_3d_obj": 0,
+    "count": 1,
+    "tag": 6,
+    "icon": "baoxiangguaiicon",
+    "deblocking": 1,
+    "level": 1,
+    "advice": 0,
+    "effect": "",
+    "name": "饅頭ミミック",
+    "comfortable": 0,
+    "spine_action_replace": "",
+    "picture": "",
+    "canputon": 0,
+    "id": 100048,
+    "can_rotate": 0,
+    "size": [
+      3,
+      2
+    ],
+    "offset": {},
+    "canputonGrid": {},
+    "can_trigger": [
+      0
+    ],
+    "spine": {
+      "0": [
+        "baoxiangguai",
+        "normal"
+      ],
+      "3": [
+        [
+          -286,
+          59
+        ],
+        "walk"
+      ]
+    },
     "interAction_group": {}
   },
   "200001": {

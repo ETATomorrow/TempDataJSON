@@ -3824,7 +3824,7 @@
     "belong": 1,
     "themeId": 0,
     "is_3d_obj": 0,
-    "count": 1,
+    "count": 2,
     "tag": 6,
     "icon": "doaxunzhangicon",
     "deblocking": 1,
@@ -6680,6 +6680,56 @@
     "animator": [
       [
         "feiqiuqianCharControl"
+      ]
+    ],
+    "interAction_group": {}
+  },
+  "100023": {
+    "spine_extra": "",
+    "describe": "來點熱鬧的節慶氛圍吧~",
+    "gain_by": "",
+    "type": 7,
+    "dir": 0,
+    "dorm_id": 0,
+    "rarity": 5,
+    "is_get_time_note": 0,
+    "belong": 1,
+    "themeId": 0,
+    "is_3d_obj": 0,
+    "count": 1,
+    "tag": 6,
+    "icon": "yanhuadanicon",
+    "deblocking": 1,
+    "level": 1,
+    "advice": 0,
+    "effect": "",
+    "name": "節慶的煙火",
+    "comfortable": 0,
+    "spine_action_replace": "",
+    "picture": "",
+    "canputon": 0,
+    "id": 100023,
+    "can_rotate": 0,
+    "size": [
+      2,
+      2
+    ],
+    "offset": {},
+    "canputonGrid": {},
+    "can_trigger": [
+      0
+    ],
+    "spine": [
+      [
+        "yanhuadan",
+        "normal",
+        [
+          "action",
+          true,
+          null,
+          null,
+          "houzhai_yanhua"
+        ]
       ]
     ],
     "interAction_group": {}

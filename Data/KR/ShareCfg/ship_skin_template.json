@@ -73508,6 +73508,106 @@
       ]
     ]
   },
+  "207130": {
+    "ship_group": 20713,
+    "name": "꼬마 포미더블",
+    "bullet_skin_secondary": "",
+    "hand_id": 5,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 207130,
+    "group_index": 0,
+    "prefab": "kewei_younv",
+    "painting": "kewei_younv",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "일러스트리어스급 항공모함—포미더블, 현호 67",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.296,
+          0.992,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          1.257,
+          0.989,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.46,
+              2.406,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
   "213010": {
     "ship_group": 21301,
     "name": "에레버스",
@@ -112095,6 +112195,122 @@
       ]
     ]
   },
+  "305115": {
+    "ship_group": 30511,
+    "name": "쪽빛 미녀",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "129",
+    "id": 305115,
+    "group_index": 5,
+    "prefab": "sanli_6",
+    "painting": "sanli_6",
+    "shop_id": 70842,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 2,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "단둘이서 여행을 떠나자고 했을 때는 무슨 일인가 했다만, 뭐… 덕분에 관광도 즐기고 이런 멋진 의상도 입게 되었군. 지휘관, 지금은 마음껏 즐기도록 하자고! 하하하!",
+    "voice_actor": 47,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "vicegun": [
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.258,
+          1.387,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.443,
+              2.34,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
   "305118": {
     "ship_group": 30511,
     "name": "무구함상",
@@ -115190,19 +115406,20 @@
     "bg": "152",
     "id": 307014,
     "group_index": 4,
-    "shop_id": 70659,
+    "prefab": "chicheng_5",
     "painting": "chicheng_5",
-    "air_bomb_skin": "",
+    "shop_id": 70659,
     "air_bullet_skin": "",
-    "illustrator": -1,
+    "air_bomb_skin": "",
     "shop_type_id": 3,
+    "illustrator": -1,
     "lip_smoothing": 0,
     "bullet_skin_main": "",
     "skin_type": 0,
     "bg_sp": "",
     "voice_actor_2": -1,
     "air_torpedo_skin": "",
-    "prefab": "chicheng_5",
+    "l2d_ignore_drag": 1,
     "l2d_se": "",
     "aircraft_skin": "",
     "main_UI_FX": "",
@@ -115300,8 +115517,109 @@
         0,
         0
       ]
+    }
+  },
+  "307015": {
+    "ship_group": 30701,
+    "name": "달콤한 길가",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "129",
+    "id": 307015,
+    "group_index": 5,
+    "prefab": "chicheng_6",
+    "painting": "chicheng_6",
+    "shop_id": 70841,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 2,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "지휘관님, 아~ 하세요, 아~♪ 후후, 후후후후후… 정말 애 같으시다니깐♪ 근사한 옷도 받고, 평소와 다른 지휘관님 모습도 볼 수 있어서 정말 과분할 정도로 행복하네요~♪",
+    "voice_actor": 44,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "antiaircraft": [
+        [
+          1.215,
+          1.149,
+          0
+        ]
+      ],
+      "plane": [
+        [
+          1.229,
+          1.184,
+          0
+        ]
+      ]
     },
-    "l2d_ignore_drag": "e"
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.3,
+              2.618,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
   },
   "307018": {
     "ship_group": 30701,
@@ -208233,6 +208551,132 @@
       ]
     ]
   },
+  "10600012": {
+    "ship_group": 1060001,
+    "name": "수증기 속 비너스",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "142",
+    "id": 10600012,
+    "group_index": 2,
+    "prefab": "maliluosi_3_doa",
+    "painting": "maliluosi_3_doa",
+    "shop_id": 70838,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 22,
+    "illustrator": -1,
+    "lip_smoothing": 0,
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "휴우~ 따뜻해서 기분 좋네요♪ 지휘관님도 같이 하실래요? 아… 그렇지만 부끄러우니까… 마리 쪽은 너무 쳐다보시면 안…돼요.",
+    "voice_actor": 252,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      1,
+      2,
+      5
+    ],
+    "live2d_offset": [
+      0,
+      35,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.461,
+          1.074,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          -0.003,
+          0.006,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.397,
+          1.067,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.57,
+              2.46,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "l2d_animations": [
+      "idle",
+      "main_1",
+      "main_2",
+      "main_3",
+      "mission",
+      "mission_complete",
+      "complete",
+      "login",
+      "home",
+      "mail",
+      "touch_body",
+      "touch_head"
+    ],
+    "l2d_voice_calibrate": {
+      "use_event": true
+    }
+  },
   "10600020": {
     "ship_group": 1060002,
     "name": "호노카",
@@ -209570,6 +210014,450 @@
             [
               -0.4,
               2.39,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600080": {
+    "ship_group": 1060008,
+    "name": "루나",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 10600080,
+    "group_index": 0,
+    "prefab": "luna_doa",
+    "painting": "luna_doa",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "으, 으음… 여, 여긴 어디죠…? 저 말씀이신가요? 저는 루나, 학자입니다. …그 …지휘관…님? 일단은… 배가 좀 고픈데…. 뭐라도 먹을 거 없을까요? …가능하면 군고구마로….",
+    "voice_actor": 312,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600081": {
+    "ship_group": 1060008,
+    "name": "해변의 여신",
+    "bullet_skin_secondary": "",
+    "hand_id": 13,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "106",
+    "id": 10600081,
+    "group_index": 1,
+    "prefab": "luna_2_doa",
+    "painting": "luna_2_doa",
+    "shop_id": 70840,
+    "air_bullet_skin": "",
+    "illustrator": -1,
+    "shop_type_id": 6,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "흠… 지휘관님. 놀다 보니 좀 피곤한데 여기서 잠깐 쉬지 않으실래요? 아니면 간식 타임? 이 비밀스러운 나무 그늘에서 단둘이… 후후♪",
+    "voice_actor": 312,
+    "air_bomb_skin": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2,
+      5,
+      6
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ],
+    "spine_offset": [
+      [
+        150,
+        -878,
+        0
+      ],
+      [
+        1.1
+      ]
+    ]
+  },
+  "10600090": {
+    "ship_group": 1060009,
+    "name": "타마키",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "",
+    "illustrator2": -1,
+    "bg": "",
+    "id": 10600090,
+    "group_index": 0,
+    "prefab": "huan_doa",
+    "painting": "huan_doa",
+    "shop_id": 0,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 0,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": -1,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "응? 여긴 어디지? 흐음, 그렇구나…. 어제 너무 많이 마셔서 그런 건가…. 아하하… 뭐, 됐어♪ 귀여운 여자애들이 많아서 재밌겠네❤ 난 타마키. 잘 부탁해, 지휘관 군❤",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": {},
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
+              0
+            ]
+          ]
+        ]
+      ]
+    ]
+  },
+  "10600091": {
+    "ship_group": 1060009,
+    "name": "아프로디테 샤워 타임",
+    "bullet_skin_secondary": "",
+    "hand_id": 2,
+    "bgm": "doa_huanzhuang",
+    "illustrator2": -1,
+    "bg": "164",
+    "id": 10600091,
+    "group_index": 1,
+    "prefab": "huan_2_doa",
+    "painting": "huan_2_doa",
+    "shop_id": 70839,
+    "air_bullet_skin": "",
+    "air_bomb_skin": "",
+    "shop_type_id": 6,
+    "illustrator": -1,
+    "l2d_voice_calibrate": "",
+    "lip_smoothing": 0,
+    "l2d_animations": "",
+    "bullet_skin_main": "",
+    "skin_type": 0,
+    "bg_sp": "",
+    "voice_actor_2": -1,
+    "air_torpedo_skin": "",
+    "l2d_ignore_drag": 0,
+    "l2d_se": "",
+    "aircraft_skin": "",
+    "main_UI_FX": "",
+    "special_effects": "",
+    "desc": "후훗. 기다리고 있었어, 지휘관 군♪ 후훗, 그렇게 부끄러워할 거 없어♥ 지금부터 잔뜩, 지휘관 군을 힐링시켜 줄 테니까…. 각오해둬♪",
+    "voice_actor": -1,
+    "spine_offset": "",
+    "gyro": 0,
+    "rarity_bg": "",
+    "time": "",
+    "l2d_para_range": "",
+    "lip_sync_gain": 0,
+    "show_skin": "stand",
+    "ship_l2d_id": "",
+    "tag": [
+      2,
+      5
+    ],
+    "live2d_offset": [
+      0,
+      0,
+      0
+    ],
+    "fx_container": [
+      [
+        0,
+        1.99185,
+        1.15
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0.75,
+        -1.299
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "bound_bone": {
+      "cannon": [
+        [
+          1.233,
+          0.971,
+          0
+        ]
+      ],
+      "torpedo": [
+        [
+          0,
+          0,
+          0
+        ]
+      ],
+      "antiaircraft": [
+        [
+          1.338,
+          1.422,
+          0
+        ]
+      ]
+    },
+    "smoke": [
+      [
+        50,
+        [
+          [
+            "smoke",
+            [
+              -0.157,
+              2.393,
               0
             ]
           ]
